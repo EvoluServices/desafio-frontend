@@ -7,7 +7,7 @@ Criar uma aplicação web com informações sobre a série de desenho animado Ri
 ## Instruções
 - Criar um repositório no github com o nome desafio-frontend-evoluservices
 - Completar o desafio nesse repositório
-- Enviar um email para felipe.milani@evoluservices com o assunto "Desafio frontend EvoluServices"
+- Enviar um email para jobs@evoluservices com o assunto "Desafio frontend EvoluServices"
 contendo:
   - o link para seu repositório com o desafio finalizado
   - uma justificativa para cada tomada de decisão feita por você
