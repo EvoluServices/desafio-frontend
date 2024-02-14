@@ -13,7 +13,7 @@ contendo:
   - uma justificativa para cada tomada de decisão feita por você
 
 ## Requisitos para o desafio
-- A aplicação tem que ser feita usando a biblioteca React
+- A aplicação tem que ser feita usando a biblioteca (React)[https://react.dev]
 - As informações utilizadas na aplicação devem ser obtidas através dessa (API do Rick and Morty)[https://rickandmortyapi.com/documentation/#rest]
 - *Não* usar qualquer sdk da api
 - A aplicação deve ter um design responsivo
